@@ -2,12 +2,34 @@
 
 <img width="1050" height="450" alt="Hello, Ramashray here" src="https://github.com/user-attachments/assets/fea82b84-e0b9-473e-98c3-bc82d2953dee" />
 
-[![Website](https://img.shields.io/badge/Website-ramashrays.github.io-0f172a?style=flat-square&logo=google-chrome&logoColor=38bdf8)](https://ramashrays.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramashray%20Sahu-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/ramashray-sahu-ba7539367/)
-[![GitHub](https://img.shields.io/badge/GitHub-RamashrayS-0f172a?style=flat-square&logo=github&logoColor=f8fafc)](https://github.com/RamashrayS)
-![Profile Views](https://komarev.com/ghpvc/?username=RamashrayS&color=0284c7&style=flat-square&label=VIEWS)
+<br/><br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=RamashrayS&color=0284c7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+      <br/><br/>
+      <a href="https://ramashrays.github.io" target="_blank">
+        <img src="./assets/btn-website.svg" alt="Website" height="46" />
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/ramashray-sahu-ba7539367/" target="_blank">
+        <img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="46" />
+      </a>
+      <br/><br/>
+      <a href="mailto:ramashrays@proton.me">
+        <img src="./assets/btn-email.svg" alt="Email" height="46" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width="320">
+      <img src="./assets/avatar.gif" alt="Animation" width="282" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
 
 ## 🐍 Contributions
 

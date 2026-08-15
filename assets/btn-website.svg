@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 52" width="220" height="52">
+  <defs>
+    <filter id="sketch-shadow" x="-5%" y="-5%" width="115%" height="120%">
+      <feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#0284c7" flood-opacity="0.9" />
+    </filter>
+  </defs>
+  
+  <!-- Outer Sketch Background with Comic Shadow -->
+  <rect x="4" y="4" width="206" height="42" rx="10" ry="10" fill="#090d16" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="200 4 100 3" filter="url(#sketch-shadow)" />
+  
+  <!-- Inner Sketchy Contour Line -->
+  <rect x="7" y="7" width="200" height="36" rx="7" ry="7" fill="none" stroke="#0284c7" stroke-width="1.2" stroke-opacity="0.7" stroke-dasharray="12 3 40 2" />
+
+  <!-- Left Icon Accent Badge -->
+  <rect x="11" y="11" width="30" height="28" rx="6" fill="#0369a1" stroke="#38bdf8" stroke-width="1.5" />
+  
+  <!-- Globe / Web Icon -->
+  <g transform="translate(16, 15) scale(0.85)" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"></circle>
+    <line x1="2" y1="12" x2="22" y2="12"></line>
+    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+  </g>
+
+  <!-- Button Text -->
+  <text x="50" y="27" font-family="'Segoe UI', 'Impact', 'Comic Sans MS', -apple-system, sans-serif" font-weight="900" font-size="13" fill="#f8fafc" letter-spacing="0.8">WEBSITE</text>
+  <text x="50" y="39" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="600" font-size="9.5" fill="#38bdf8" letter-spacing="0.5">ramashrays.github.io ↗</text>
+</svg>
