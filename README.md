@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋
+<img width="1050" height="450" alt="Hello, Ramashray here" src="https://github.com/user-attachments/assets/fea82b84-e0b9-473e-98c3-bc82d2953dee" />
 
 [![Website](https://img.shields.io/badge/Website-ramashrays.github.io-0f172a?style=flat-square&logo=google-chrome&logoColor=38bdf8)](https://ramashrays.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramashray%20Sahu-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/ramashray-sahu-ba7539367/)
