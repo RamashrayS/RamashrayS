@@ -8,23 +8,17 @@
   <tr>
     <td align="left" valign="middle">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,java,html,css,latex,react,nextjs,nodejs,gcp,docker,vercel,supabase,firebase,git,github,linux,vscode,godot&perline=9" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=py,js,java,html,css,latex,react,nextjs,gcp,docker,vercel,supabase,firebase,git,github,linux,vscode,godot&perline=9" alt="Tech Stack" />
       </a>
       <br/><br/>
-      <a href="https://x.com" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      <a href="https://ramashrays.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/WEBSITE-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MySite" />
       </a>
-      <a href="https://discord.com" target="_blank">
-        <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-      </a>
-      <a href="mailto:ramashray186@gmail.com" target="_blank">
+      <a href="mailto:ramashrays@proton.me" target="_blank">
         <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
-      <a href="https://www.linkedin.com/in/ramashray-sahu-ba7539367/" target="_blank">
+      <a href="https://www.linkedin.com/in/ramashray-sahu/" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://ramashrays.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
       </a>
     </td>
     <td align="center" valign="middle" width="300">
