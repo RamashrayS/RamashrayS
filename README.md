@@ -9,12 +9,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,next,supabase,linux,git,github&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
-
 ## 🐍 Contributions
 
 <div align="center">
