@@ -21,6 +21,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          # Uses your PAT if provided (to capture private contributions), or falls back to default GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
