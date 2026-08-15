@@ -8,11 +8,11 @@
   <tr>
     <td align="left" valign="middle">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,ts,js,cs,react,nextjs,tailwind,nodejs,pytorch,supabase,postgres,firebase,vercel,docker,git,github,linux,vscode&perline=10" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,react,nextjs,tailwind,nodejs,pytorch,supabase,firebase,vercel,docker,git,github,linux,vscode&perline=10" alt="Tech Stack" />
       </a>
       <br/><br/>
       <a href="https://ramashrays.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MySite" />
+        <img src="https://img.shields.io/badge/MySite-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MySite" />
       </a>
       <a href="mailto:ramashrays@proton.me" target="_blank">
         <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
