@@ -37,8 +37,6 @@
 
 ---
 
-## 🐍 Contributions
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamashrayS/RamashrayS/output/github-snake-dark.svg">
@@ -46,74 +44,6 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/RamashrayS/RamashrayS/output/github-snake.svg" width="100%">
   </picture>
 </div>
-
----
-
-### 🛠️ Tech Stack Breakdown
-
-#### **Core & Languages**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
-#### **Web Development**
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-
-#### **Data Science & AI**
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Astropy](https://img.shields.io/badge/Astropy-D83B01?style=for-the-badge&logo=python&logoColor=white)](https://www.astropy.org)
-
-#### **Backend & Cloud**
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-
-#### **Tools & DevOps**
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☀️ <a href="https://github.com/RamashrayS/Flaleon">Flaleon</a></h4>
-      <p>A machine learning framework to forecast, nowcast, and classify solar flares using Aditya-L1 solar data.</p>
-      <sub><code>Python</code> • <code>Machine Learning</code> • <code>Space Science</code> • <code>Aditya-L1</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛰️ <a href="https://github.com/RamashrayS/Space_Anamoly_Detection_Model">Space Anomaly Detection Model</a></h4>
-      <p>Anomaly detection system for spacecraft sensor telemetry with automated decision heuristics.</p>
-      <sub><code>Python</code> • <code>Machine Learning</code> • <code>Space Systems</code> • <code>Telemetry</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/RamashrayS/PaperFlow">PaperFlow</a></h4>
-      <p>AI automation pipeline that ingests research papers, analyzes them with user-selected models, and structures findings for rapid synthesis.</p>
-      <sub><code>Python</code> • <code>AI / LLMs</code> • <code>Research Tools</code> • <code>Automation</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔬 ResearchHeist</h4>
-      <p>Research-oriented tooling and software to accelerate academic exploration and literature workflows.</p>
-      <sub><code>Scientific Computing</code> • <code>Productivity</code> • <code>Research Tools</code> • <i>In Active Development</i></sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
