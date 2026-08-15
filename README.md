@@ -31,8 +31,6 @@
 
 ---
 
-## 🐍 Contributions
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamashrayS/RamashrayS/output/github-snake-dark.svg">
