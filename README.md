@@ -46,22 +46,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamashrayS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Ramashray's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamashrayS&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RamashrayS&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats" />
-</div>
-
----
-
-<div align="center">
-  <sub>Thanks for stopping by!</sub>
-</div>
